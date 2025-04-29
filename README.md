@@ -149,9 +149,10 @@ Você escreve um script que acessa a página de login, insere e-mail e senha aut
 
 ## 3. Materiais e Recursos
 
-- Slides de apoio
-- Planilha modelo de caso de teste: https://docs.google.com/spreadsheets/d/1e8oWhj-uuRijtnl7kJzKi7lepiff7IShFYjIYYJPGu8/edit?gid=0#gid=0
-- Protótipo: https://horadoqa.github.io/login/
-- Modelos de relatório  Google Docs: https://docs.google.com/document/d/1a_oMWXJls1d_-K21xYLLSQmTZch2UQ3o/edit?usp=sharing&ouid=104973935846729558594&rtpof=true&sd=true
+### Login
+- Requisitos e relatório: https://drive.google.com/drive/folders/1_4GC9upitDw7BKdn-yGjrXJ7F7RADsGl
+
+### Cadastro
+- Requisitos e relatório: https://drive.google.com/drive/folders/1XQaIyen5Pc8NfTwlGagp6oABFGdW85Fo
 
 ---
